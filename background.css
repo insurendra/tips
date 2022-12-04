@@ -1,0 +1,81 @@
+body {
+    background-image: url(oip.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#p1 {
+    background-color: yellowgreen;
+    opacity: 100%;
+    border: 2px solid red;
+    padding: 5px 10px;
+    text-align: center;
+    width: 200px;
+}
+
+#p2 {
+    background-color: aqua;
+    border: none;
+    padding: 20px;
+    width: 50%;
+}
+
+.main {
+    background-color: brown;
+    height: 200px;
+    padding: 20px;
+}
+
+.second {
+    height: 400px;
+    background-color: khaki;
+    border: 3px solid green;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.box {
+    height: 250px;
+    width: 270px;
+    display: inline-block;
+}
+
+.box:hover {
+    background-color: green;
+}
+
+#box1 {
+    border: 2px solid red;
+    margin: 20px;
+    padding: 20px;
+}
+
+#box4 {
+    border: 2px solid rgb(118, 1, 83);
+    margin: 20px;
+    padding: 20px;
+}
+
+#box2 {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#box3 {
+    border: 2px solid blue;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+}

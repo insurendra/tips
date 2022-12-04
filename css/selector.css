@@ -1,0 +1,30 @@
+h2 {
+    color: blue;
+}
+
+p {
+    color: red;
+    background-color: gray;
+}
+
+/* for class selector we need to start from . sign */
+/* hierarchi of selectors: id > class > element */
+.classselector {
+    background-color: yellowgreen;
+    color: purple;
+}
+
+/* for id selector we need to start from # sign */
+#h2id {
+    color: white;
+    background-color: black;
+}
+
+/* this is group selector */
+h2,
+p,
+h3,
+h4,
+li {
+    border: 2px solid red;
+}
